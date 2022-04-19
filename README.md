@@ -1,4 +1,4 @@
 # counter
 simple counter bot
 
-![Tutorial](/assets/imgs/tut1.png)
+![Tutorial](assets/imgs/tut1.PNG)
