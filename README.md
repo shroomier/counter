@@ -5,5 +5,7 @@
 Keys:
 
 ENTER to begin
+
 __HOLD__ ESCAPE to stop the bot
+
 __HOLD__ ALT to pause the bot
